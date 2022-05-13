@@ -69,6 +69,4 @@ int main()
     cout << "For 1000000 elements:" << endl;
     sorty(n = 1000000);
     system("pause");
-
-    system("pause>>void");
 }
